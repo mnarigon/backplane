@@ -1,4 +1,4 @@
-22092183247429430
+22092185926204158
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -91077,6 +91077,27 @@ varistor
 2
 2
 backplane
+AMP_640445-3
+AMP MTA connector
+
+0
+3
+3
+backplane
+AMP_640445-4
+AMP MTA connector
+
+0
+4
+4
+backplane
+AMP_640454-2
+AMP MTA connector
+
+0
+2
+2
+backplane
 CP_0805
 
 
@@ -91112,27 +91133,6 @@ LED_0805
 2
 2
 backplane
-Molex_640445-3
-AMP MTA connector
-
-0
-3
-3
-backplane
-Molex_640445-4
-AMP MTA connector
-
-0
-4
-4
-backplane
-Molex_640454-2
-AMP MTA connector
-
-0
-2
-2
-backplane
 Mounting_Hole_6-32
 
 
@@ -91140,7 +91140,7 @@ Mounting_Hole_6-32
 0
 0
 backplane
-Potentiometer_Bourns_3224G_Horizontal
+Potentiometer_Bourns_TC33X
 
 
 0
